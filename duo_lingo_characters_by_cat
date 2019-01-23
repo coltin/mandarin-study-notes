@@ -1,0 +1,1500 @@
+你	Greeting 1
+好	Greeting 1
+再见	Greeting 1
+再	Greeting 1
+见	Greeting 1
+三	Numbers
+一	Numbers
+七	Numbers
+八	Numbers
+十	Numbers
+零	Numbers
+元	Numbers
+五	Numbers
+九	Numbers
+百	Numbers
+二	Numbers
+四	Numbers
+六	Numbers
+叫	Name
+我	Name
+张	Name
+李	Name
+华	Name
+明	Name
+名字	Name
+什么	Name
+名	Name
+字	Name
+什	Name
+么	Name
+姓	Name
+王	Name
+呢	Name
+很	Greeting 2
+高兴	Greeting 2
+高	Greeting 2
+兴	Greeting 2
+认识	Greeting 2
+也	Greeting 2
+认	Greeting 2
+识	Greeting 2
+吃	Food 1
+饭	Food 1
+鱼	Food 1
+面	Food 1
+喝	Food 1
+水	Food 1
+茶	Food 1
+不	Food 1
+是	Occupation
+他	Occupation
+学生	Occupation
+学	Occupation
+生	Occupation
+吗	Occupation
+她	Occupation
+你们	Occupation
+我们	Occupation
+他们	Occupation
+们	Occupation
+老师	Occupation
+医生	Occupation
+她们	Occupation
+老	Occupation
+师	Occupation
+医	Occupation
+的	Contact
+电话	Contact
+电	Contact
+话	Contact
+号码	Contact
+多少	Contact
+多	Contact
+少	Contact
+号	Contact
+码	Contact
+中国	Nation
+人	Nation
+中	Nation
+国	Nation
+哪	Nation
+英国	Nation
+美国	Nation
+英	Nation
+美	Nation
+都	Nation
+对	Nation
+加拿大	Nation
+加	Nation
+拿	Nation
+大	Nation
+忙	Greeting 3
+早上	Greeting 3
+早	Greeting 3
+上	Greeting 3
+怎么样	Greeting 3
+今天	Greeting 3
+怎	Greeting 3
+样	Greeting 3
+今	Greeting 3
+天	Greeting 3
+家	Location 1
+北京	Location 1
+在	Location 1
+北	Location 1
+京	Location 1
+哪儿	Location 1
+纽约	Location 1
+香港	Location 1
+儿	Location 1
+纽	Location 1
+约	Location 1
+香	Location 1
+港	Location 1
+住	Location 1
+伦敦	Location 1
+台湾	Location 1
+伦	Location 1
+敦	Location 1
+台	Location 1
+湾	Location 1
+谢谢	Phrases 1
+不客气	Phrases 1
+谢	Phrases 1
+客	Phrases 1
+气	Phrases 1
+对不起	Phrases 1
+没关系	Phrases 1
+起	Phrases 1
+没	Phrases 1
+关	Phrases 1
+系	Phrases 1
+爸爸	Family 1
+妈妈	Family 1
+爱	Family 1
+家人	Family 1
+爸	Family 1
+妈	Family 1
+谁	Family 1
+那	Family 1
+个	Family 1
+这	Family 1
+哥哥	Family 1
+姐姐	Family 1
+有	Family 1
+哥	Family 1
+姐	Family 1
+弟弟	Family 1
+和	Family 1
+妹妹	Family 1
+弟	Family 1
+妹	Family 1
+请问	Phrases 2
+知道	Phrases 2
+问	Phrases 2
+请	Phrases 2
+知	Phrases 2
+道	Phrases 2
+说	Phrases 2
+英语	Phrases 2
+汉语	Phrases 2
+汉	Phrases 2
+语	Phrases 2
+帮助	Phrases 2
+次	Phrases 2
+帮	Phrases 2
+助	Phrases 2
+早安	Greeting 4
+晚安	Greeting 4
+一会儿	Greeting 4
+会	Greeting 4
+安	Greeting 4
+最近	Greeting 4
+好久不见	Greeting 4
+不错	Greeting 4
+最	Greeting 4
+近	Greeting 4
+久	Greeting 4
+错	Greeting 4
+要	Drink
+热	Drink
+冰	Drink
+牛奶	Drink
+咖啡	Drink
+牛	Drink
+奶	Drink
+咖	Drink
+啡	Drink
+洗手间	Location 2
+医院	Location 2
+洗	Location 2
+手	Location 2
+间	Location 2
+院	Location 2
+这儿	Location 2
+那儿	Location 2
+饭馆	Location 2
+馆	Location 2
+年	Time 1
+月	Time 1
+几	Time 1
+〇	Time 1
+星期	Time 1
+明天	Time 1
+日	Time 1
+星	Time 1
+期	Time 1
+点	Time 1
+现在	Time 1
+半	Time 1
+现	Time 1
+孩子	Family 2
+两	Family 2
+孩	Family 2
+子	Family 2
+女儿	Family 2
+儿子	Family 2
+岁	Family 2
+女	Family 2
+妻子	Family 2
+丈夫	Family 2
+妻	Family 2
+丈	Family 2
+夫	Family 2
+猫	Family 2
+它	Family 2
+狗	Family 2
+喂	Telephone
+慢	Telephone
+一点儿	Telephone
+快	Telephone
+得	Telephone
+明白	Telephone
+白	Telephone
+漂亮	People 1
+漂	People 1
+亮	People 1
+朋友	People 1
+男	People 1
+矮	People 1
+朋	People 1
+友	People 1
+可爱	People 1
+非常	People 1
+可	People 1
+非	People 1
+常	People 1
+上午	Time 2
+分	Time 2
+下午	Time 2
+晚上	Time 2
+午	Time 2
+晚	Time 2
+下	Time 2
+每	Time 2
+中午	Time 2
+周末	Time 2
+周	Time 2
+末	Time 2
+昨天	Time 2
+了	Time 2
+做	Time 2
+昨	Time 2
+今年	Time 2
+去年	Time 2
+明年	Time 2
+去	Time 2
+旁边	Location 3
+左边	Location 3
+右边	Location 3
+旁	Location 3
+左	Location 3
+右	Location 3
+边	Location 3
+前面	Location 3
+后面	Location 3
+学校	Location 3
+前	Location 3
+后	Location 3
+校	Location 3
+走	Location 3
+到	Location 3
+路	Location 3
+怎么	Location 3
+哪里	Location 3
+这里	Location 3
+那里	Location 3
+往	Location 3
+里	Location 3
+喜欢	Hobbies 1
+看	Hobbies 1
+书	Hobbies 1
+喜	Hobbies 1
+欢	Hobbies 1
+玩	Hobbies 1
+电脑	Hobbies 1
+游戏	Hobbies 1
+脑	Hobbies 1
+游	Hobbies 1
+戏	Hobbies 1
+听	Hobbies 1
+音乐	Hobbies 1
+歌	Hobbies 1
+音	Hobbies 1
+乐	Hobbies 1
+跳舞	Hobbies 1
+唱	Hobbies 1
+跳	Hobbies 1
+舞	Hobbies 1
+起床	Daily Routine 1
+上学	Daily Routine 1
+上班	Daily Routine 1
+早饭	Daily Routine 1
+床	Daily Routine 1
+班	Daily Routine 1
+从	Daily Routine 1
+睡觉	Daily Routine 1
+午饭	Daily Routine 1
+睡	Daily Routine 1
+觉	Daily Routine 1
+放学	Daily Routine 1
+下班	Daily Routine 1
+回	Daily Routine 1
+晚饭	Daily Routine 1
+放	Daily Routine 1
+钱	Payment
+块	Payment
+只	Payment
+买	Payment
+一共	Payment
+毛	Payment
+共	Payment
+信用卡	Payment
+收	Payment
+千	Payment
+信	Payment
+用	Payment
+卡	Payment
+贵	Payment
+便宜	Payment
+现金	Payment
+便	Payment
+宜	Payment
+金	Payment
+太	Payment
+万	Payment
+行	Payment
+想	Entertainment
+干	Entertainment
+影	Entertainment
+视	Entertainment
+电视	Entertainment
+电影	Entertainment
+报纸	Entertainment
+上网	Entertainment
+报	Entertainment
+纸	Entertainment
+网	Entertainment
+手机	Entertainment
+新闻	Entertainment
+机	Entertainment
+新	Entertainment
+闻	Entertainment
+明星	Entertainment
+体育	Entertainment
+节目	Entertainment
+韩国	Entertainment
+体	Entertainment
+节	Entertainment
+韩	Entertainment
+育	Entertainment
+目	Entertainment
+桌	Location 4
+找	Location 4
+桌子	Location 4
+椅子	Location 4
+椅	Location 4
+房间	Location 4
+冰箱	Location 4
+外	Location 4
+房	Location 4
+箱	Location 4
+位	Restaurant
+等	Restaurant
+一下	Restaurant
+进	Restaurant
+坐	Restaurant
+菜单	Restaurant
+英文	Restaurant
+菜	Restaurant
+单	Restaurant
+文	Restaurant
+服务员	Restaurant
+点菜	Restaurant
+买单	Restaurant
+订位	Restaurant
+服	Restaurant
+务	Restaurant
+员	Restaurant
+订	Restaurant
+些	Supermarket
+西	Supermarket
+东	Supermarket
+东西	Supermarket
+超市	Supermarket
+水果	Supermarket
+超	Supermarket
+市	Supermarket
+果	Supermarket
+给	Supermarket
+苹果	Supermarket
+西瓜	Supermarket
+苹	Supermarket
+瓜	Supermarket
+鸡蛋	Supermarket
+新鲜	Supermarket
+鸡	Supermarket
+蛋	Supermarket
+鲜	Supermarket
+蔬菜	Supermarket
+蔬	Supermarket
+包	Supermarket
+米	Supermarket
+面包	Supermarket
+袋	Supermarket
+糖	Supermarket
+为	Hobbies 2
+习	Hobbies 2
+学习	Hobbies 2
+中文	Hobbies 2
+为什么	Hobbies 2
+因为	Hobbies 2
+所以	Hobbies 2
+西班牙	Hobbies 2
+因	Hobbies 2
+所	Hobbies 2
+以	Hobbies 2
+牙	Hobbies 2
+旅游	Hobbies 2
+爱好	Hobbies 2
+西班牙语	Hobbies 2
+轻松	Hobbies 2
+旅	Hobbies 2
+轻	Hobbies 2
+松	Hobbies 2
+照相机	Hobbies 2
+印度	Hobbies 2
+拍照	Hobbies 2
+拍	Hobbies 2
+照	Hobbies 2
+印	Hobbies 2
+相	Hobbies 2
+度	Hobbies 2
+海	Dining 1
+本	Dining 1
+还	Dining 1
+上海	Dining 1
+还是	Dining 1
+日本	Dining 1
+肉	Dining 1
+米饭	Dining 1
+面条	Dining 1
+鸡肉	Dining 1
+牛肉	Dining 1
+猪肉	Dining 1
+羊肉	Dining 1
+饮料	Dining 1
+猪	Dining 1
+羊	Dining 1
+饮	Dining 1
+料	Dining 1
+作	Health 1
+工	Health 1
+累	Health 1
+工作	Health 1
+觉得	Health 1
+有点儿	Health 1
+胖	Health 1
+健康	Health 1
+不要	Health 1
+健	Health 1
+康	Health 1
+身体	Health 1
+注意	Health 1
+身	Health 1
+注	Health 1
+意	Health 1
+开始	Health 1
+锻炼	Health 1
+开	Health 1
+锻	Health 1
+始	Health 1
+炼	Health 1
+铁	Transportation
+店	Transportation
+地	Transportation
+酒	Transportation
+酒店	Transportation
+地铁	Transportation
+不准	Transportation
+准	Transportation
+出租车	Transportation
+站	Transportation
+车	Transportation
+出	Transportation
+租	Transportation
+可以	Transportation
+汽车	Transportation
+公共	Transportation
+船	Transportation
+公	Transportation
+汽	Transportation
+件	Shopping 1
+衣	Shopping 1
+商	Shopping 1
+商店	Shopping 1
+衣服	Shopping 1
+门	Shopping 1
+欢迎	Shopping 1
+迎	Shopping 1
+您	Shopping 1
+帮忙	Shopping 1
+需要	Shopping 1
+需	Shopping 1
+随便	Shopping 1
+随	Shopping 1
+读	Languages
+意思	Languages
+写	Languages
+难	Languages
+思	Languages
+秒	Time 3
+刻	Time 3
+差	Time 3
+小时	Time 3
+分钟	Time 3
+小	Time 3
+时	Time 3
+钟	Time 3
+整	Time 3
+杯	Dining 2
+啤	Dining 2
+德	Dining 2
+德国	Dining 2
+啤酒	Dining 2
+果汁	Dining 2
+汁	Dining 2
+香蕉	Dining 2
+蛋糕	Dining 2
+蕉	Dining 2
+糕	Dining 2
+碗	Dining 2
+杯子	Dining 2
+盘子	Dining 2
+盘	Dining 2
+筷子	Dining 2
+刀	Dining 2
+叉	Dining 2
+筷	Dining 2
+勺子	Dining 2
+勺	Dining 2
+室	Existence
+办	Existence
+辆	Existence
+办公室	Existence
+瓶子	Existence
+照片	Existence
+瓶	Existence
+片	Existence
+鸟	Existence
+树	Existence
+步	Sports 1
+跑	Sports 1
+泳	Sports 1
+游泳	Sports 1
+跑步	Sports 1
+踢	Sports 1
+足球	Sports 1
+打	Sports 1
+篮球	Sports 1
+足	Sports 1
+篮	Sports 1
+球	Sports 1
+运动	Sports 1
+马	Sports 1
+骑	Sports 1
+运	Sports 1
+动	Sports 1
+吧	Invitiation 1
+出去	Invitiation 1
+时间	Invitiation 1
+时候	Invitiation 1
+空	Invitiation 1
+来	Invitiation 1
+候	Invitiation 1
+过	Invitiation 1
+一起	Invitiation 1
+不好意思	Invitiation 1
+告诉	Invitiation 1
+告	Invitiation 1
+诉	Invitiation 1
+约会	Invitiation 1
+浪漫	Invitiation 1
+浪	Invitiation 1
+漫	Invitiation 1
+该	Health 2
+病	Health 2
+舒	Health 2
+应	Health 2
+生病	Health 2
+应该	Health 2
+舒服	Health 2
+疼	Health 2
+头	Health 2
+休息	Health 2
+休	Health 2
+息	Health 2
+肚子	Health 2
+肚	Health 2
+药	Health 2
+一定	Health 2
+感冒	Health 2
+感	Health 2
+定	Health 2
+冒	Health 2
+留	Health 2
+请假	Health 2
+发烧	Health 2
+别	Health 2
+发	Health 2
+假	Health 2
+烧	Health 2
+派	Invitation 2
+能	Invitation 2
+生日	Invitation 2
+派对	Invitation 2
+打扮	Invitation 2
+扮	Invitation 2
+希望	Invitation 2
+跟	Invitation 2
+希	Invitation 2
+望	Invitation 2
+大家	Invitation 2
+公司	Invitation 2
+正在	Invitation 2
+正	Invitation 2
+司	Invitation 2
+事情	Invitation 2
+才	Invitation 2
+事	Invitation 2
+情	Invitation 2
+费	Dining 3
+完	Dining 3
+经	Dining 3
+已	Dining 3
+已经	Dining 3
+小费	Dining 3
+饱	Dining 3
+好吃	Dining 3
+真	Dining 3
+饿	Dining 3
+好喝	Dining 3
+渴	Dining 3
+巧克力	Dining 3
+味道	Dining 3
+甜点	Dining 3
+甜	Dining 3
+巧	Dining 3
+克	Dining 3
+力	Dining 3
+试	Shopping 2
+蓝	Shopping 2
+条	Shopping 2
+裙	Shopping 2
+裙子	Shopping 2
+双	Shopping 2
+鞋子	Shopping 2
+意大利	Shopping 2
+色	Shopping 2
+鞋	Shopping 2
+利	Shopping 2
+比	Shopping 2
+衬衫	Shopping 2
+衬	Shopping 2
+衫	Shopping 2
+裤子	Shopping 2
+好看	Shopping 2
+裤	Shopping 2
+质	Shopping 2
+量	Shopping 2
+质量	Shopping 2
+朵	Body Parts
+睛	Body Parts
+绿	Body Parts
+耳	Body Parts
+眼	Body Parts
+耳朵	Body Parts
+眼睛	Body Parts
+头发	Body Parts
+脸	Body Parts
+又	Body Parts
+黑	Body Parts
+嘴巴	Body Parts
+鼻子	Body Parts
+脚	Body Parts
+嘴	Body Parts
+鼻	Body Parts
+巴	Body Parts
+远	Travel
+离	Travel
+走路	Travel
+开车	Travel
+飞机	Travel
+机场	Travel
+飞	Travel
+场	Travel
+靠	Travel
+停	Travel
+火车	Travel
+票	Travel
+机票	Travel
+火	Travel
+迟到	Travel
+让	Travel
+怎么办	Travel
+迟	Travel
+冷	Weather
+晴	Weather
+天气	Weather
+雨	Weather
+雪	Weather
+阴	Weather
+着	Weather
+伞	Weather
+带	Weather
+外面	Weather
+可能	Weather
+刮	Weather
+风	Weather
+如果	Weather
+就	Weather
+从来	Weather
+如	Weather
+里面	Weather
+然	Shopping 3
+但	Shopping 3
+虽	Shopping 3
+短	Shopping 3
+长	Shopping 3
+虽然	Shopping 3
+但是	Shopping 3
+红	Shopping 3
+颜色	Shopping 3
+穿	Shopping 3
+颜	Shopping 3
+黄	Shopping 3
+手表	Shopping 3
+卖	Shopping 3
+帽子	Shopping 3
+帽	Shopping 3
+表	Shopping 3
+紫	Shopping 3
+绍	People 2
+介	People 2
+介绍	People 2
+帅	People 2
+笑	People 2
+说话	People 2
+聪明	People 2
+别人	People 2
+不但	People 2
+而且	People 2
+聪	People 2
+而	People 2
+且	People 2
+春	Celebration
+快乐	Celebration
+节日	Celebration
+春节	Celebration
+礼物	Celebration
+送	Celebration
+新年	Celebration
+白酒	Celebration
+礼	Celebration
+物	Celebration
+干杯	Celebration
+祝	Celebration
+法国	Celebration
+红酒	Celebration
+法	Celebration
+赛	Sports 2
+练	Sports 2
+练习	Sports 2
+比赛	Sports 2
+好在	Sports 2
+乒乓球	Sports 2
+乒	Sports 2
+乓	Sports 2
+参加	Sports 2
+第	Sports 2
+参	Sports 2
+网球	Sports 2
+排球	Sports 2
+加油	Sports 2
+排	Sports 2
+油	Sports 2
+输	Sports 2
+赢	Sports 2
+失望	Sports 2
+信心	Sports 2
+失	Sports 2
+心	Sports 2
+同	School
+课	School
+教	School
+教室	School
+同学	School
+地理	School
+理	School
+懂	School
+问题	School
+笔	School
+题	School
+美术	School
+术	School
+考试	School
+准备	School
+考	School
+备	School
+科学	School
+科	School
+下课	School
+爷爷	Family 3
+奶奶	Family 3
+阿姨	Family 3
+爷	Family 3
+阿	Family 3
+姨	Family 3
+兄弟姐妹	Family 3
+关系	Family 3
+叔叔	Family 3
+父母	Family 3
+兄	Family 3
+叔	Family 3
+父	Family 3
+母	Family 3
+像	Family 3
+一样	Family 3
+亲戚	Family 3
+戚	Family 3
+亲	Family 3
+拉面	Gourmet 1
+点心	Gourmet 1
+小笼包	Gourmet 1
+拉	Gourmet 1
+笼	Gourmet 1
+粥	Gourmet 1
+油条	Gourmet 1
+豆浆	Gourmet 1
+豆	Gourmet 1
+浆	Gourmet 1
+火锅	Gourmet 1
+包子	Gourmet 1
+炒饭	Gourmet 1
+锅	Gourmet 1
+炒	Gourmet 1
+夏	Time 4
+冬	Time 4
+秋	Time 4
+季	Time 4
+澳	Time 4
+亚	Time 4
+季节	Time 4
+澳大利亚	Time 4
+越来越	Time 4
+前天	Time 4
+后天	Time 4
+堵车	Time 4
+大概	Time 4
+准时	Time 4
+刚	Time 4
+堵	Time 4
+概	Time 4
+城	Location 5
+附	Location 5
+园	Location 5
+城市	Location 5
+附近	Location 5
+公园	Location 5
+图	Location 5
+方	Location 5
+中间	Location 5
+图书馆	Location 5
+地方	Location 5
+上面	Location 5
+下面	Location 5
+咖啡馆	Location 5
+折	Shopping 4
+角	Shopping 4
+花	Shopping 4
+打折	Shopping 4
+旧	Shopping 4
+皮	Shopping 4
+换	Shopping 4
+皮鞋	Shopping 4
+经过	Shopping 4
+退货	Shopping 4
+退款	Shopping 4
+退	Shopping 4
+货	Shopping 4
+款	Shopping 4
+袋子	Shopping 4
+惯	Daily Routine 2
+刷	Daily Routine 2
+习惯	Daily Routine 2
+刷牙	Daily Routine 2
+马上	Daily Routine 2
+以后	Daily Routine 2
+澡	Daily Routine 2
+总	Daily Routine 2
+洗澡	Daily Routine 2
+一边	Daily Routine 2
+总是	Daily Routine 2
+讲	Daily Routine 2
+故	Daily Routine 2
+故事	Daily Routine 2
+以前	Daily Routine 2
+做梦	Daily Routine 2
+梦	Daily Routine 2
+除	Food 3
+其	Food 3
+饺	Food 3
+北方	Food 3
+除了	Food 3
+其他	Food 3
+饺子	Food 3
+辣	Food 3
+极	Food 3
+苦	Food 3
+盐	Food 3
+咸	Food 3
+南	Food 3
+南方	Food 3
+难吃	Food 3
+级	People 3
+个子	People 3
+年级	People 3
+小学	People 3
+初中	People 3
+初	People 3
+较	People 3
+年轻	People 3
+比较	People 3
+眼镜	People 3
+戴	People 3
+镜	People 3
+先	Location 6
+然后	Location 6
+西边	Location 6
+东边	Location 6
+北边	Location 6
+一直	Location 6
+最后	Location 6
+南边	Location 6
+直	Location 6
+迷路	Location 6
+地址	Location 6
+周围	Location 6
+迷	Location 6
+址	Location 6
+围	Location 6
+般	Daily Routine 3
+聊	Daily Routine 3
+聊天	Daily Routine 3
+一般	Daily Routine 3
+见面	Daily Routine 3
+自己	Daily Routine 3
+一个人	Daily Routine 3
+自	Daily Routine 3
+己	Daily Routine 3
+证	Travel 2
+签	Travel 2
+护	Travel 2
+护照	Travel 2
+签证	Travel 2
+发现	Travel 2
+起飞	Travel 2
+离开	Travel 2
+检查	Travel 2
+行李	Travel 2
+安全	Travel 2
+检	Travel 2
+查	Travel 2
+几乎	Travel 2
+忘记	Travel 2
+海关	Travel 2
+忘	Travel 2
+记	Travel 2
+乎	Travel 2
+言	Languages 2
+易	Languages 2
+容	Languages 2
+种	Languages 2
+容易	Languages 2
+语言	Languages 2
+更	Languages 2
+努力	Languages 2
+汉字	Languages 2
+努	Languages 2
+提高	Languages 2
+水平	Languages 2
+后来	Languages 2
+提	Languages 2
+平	Languages 2
+看起来	Personality and Feelings
+奇怪	Personality and Feelings
+生气	Personality and Feelings
+紧张	Personality and Feelings
+奇	Personality and Feelings
+怪	Personality and Feelings
+紧	Personality and Feelings
+难过	Personality and Feelings
+哭	Personality and Feelings
+可怕	Personality and Feelings
+热情	Personality and Feelings
+关心	Personality and Feelings
+经常	Personality and Feelings
+遇到	Personality and Feelings
+好笑	Personality and Feelings
+遇	Personality and Feelings
+求	School 2
+校长	School 2
+要求	School 2
+食堂	School 2
+食	School 2
+堂	School 2
+必须	School 2
+完成	School 2
+作业	School 2
+高中	School 2
+必	School 2
+成	School 2
+须	School 2
+业	School 2
+向	School 2
+借	School 2
+笔记	School 2
+铅笔	School 2
+铅	School 2
+清楚	School 2
+黑板	School 2
+笔记本	School 2
+清	School 2
+楚	School 2
+板	School 2
+体育馆	School 2
+化	Future
+算	Future
+搬	Future
+变	Future
+打算	Future
+变化	Future
+机会	Future
+留学	Future
+国家	Future
+选择	Future
+选	Future
+择	Future
+结婚	Future
+愿意	Future
+认真	Future
+结	Future
+愿	Future
+婚	Future
+当然	Future
+放心	Future
+害怕	Future
+当	Future
+害	Future
+怕	Future
+分手	Future
+境	Environment
+环	Environment
+层	Environment
+方便	Environment
+环境	Environment
+草	Environment
+太阳	Environment
+星星	Environment
+阳	Environment
+安静	Environment
+楼	Environment
+静	Environment
+声音	Environment
+影响	Environment
+邻居	Environment
+声	Environment
+邻	Environment
+响	Environment
+居	Environment
+垃圾	Environment
+桶	Environment
+丢	Environment
+脏	Environment
+垃	Environment
+圾	Environment
+先生	Work
+小姐	Work
+经理	Work
+同事	Work
+突然	Work
+重要	Work
+会议	Work
+突	Work
+重	Work
+议	Work
+解决	Work
+办法	Work
+相信	Work
+决	Work
+解	Work
+界	Culture
+河	Culture
+世	Culture
+黄河	Culture
+动物	Culture
+有名	Culture
+世界	Culture
+长江	Culture
+江	Culture
+多么	Culture
+熊猫	Culture
+西安	Culture
+啊	Culture
+熊	Culture
+长城	Culture
+故宫	Culture
+宫	Culture
+山	Hobbies 3
+者	Hobbies 3
+爬	Hobbies 3
+或	Hobbies 3
+自行车	Hobbies 3
+或者	Hobbies 3
+爬山	Hobbies 3
+功夫	Hobbies 3
+功	Hobbies 3
+文化	Hobbies 3
+历史	Hobbies 3
+兴趣	Hobbies 3
+感兴趣	Hobbies 3
+历	Hobbies 3
+趣	Hobbies 3
+史	Hobbies 3
+为了	Hobbies 3
+特别	Hobbies 3
+了解	Hobbies 3
+麻将	Hobbies 3
+特	Hobbies 3
+麻	Hobbies 3
+将	Hobbies 3
+顾	Health 3
+死	Health 3
+闷	Health 3
+腿	Health 3
+照顾	Health 3
+公斤	Health 3
+着急	Health 3
+瘦	Health 3
+斤	Health 3
+急	Health 3
+咳嗽	Health 3
+抽烟	Health 3
+咳	Health 3
+嗽	Health 3
+抽	Health 3
+烟	Health 3
+际	Travel 3
+柜	Travel 3
+转	Travel 3
+转机	Travel 3
+柜台	Travel 3
+国际	Travel 3
+换钱	Travel 3
+银行	Travel 3
+充电	Travel 3
+国内	Travel 3
+银	Travel 3
+充	Travel 3
+内	Travel 3
+充值	Travel 3
+漫游	Travel 3
+电话卡	Travel 3
+值	Travel 3
+订房	Travel 3
+退房	Travel 3
+取消	Travel 3
+导游	Travel 3
+取	Travel 3
+导	Travel 3
+消	Travel 3
+答	Languages 3
+句	Languages 3
+简	Languages 3
+简单	Languages 3
+句子	Languages 3
+回答	Languages 3
+词典	Languages 3
+应用	Languages 3
+语法	Languages 3
+流利	Languages 3
+词	Languages 3
+流	Languages 3
+典	Languages 3
+下载	Languages 3
+多邻国	Languages 3
+翻译	Languages 3
+翻	Languages 3
+载	Languages 3
+译	Languages 3
+把	House
+灯	House
+空调	House
+画	House
+厨房	House
+客厅	House
+厨	House
+厅	House
+客人	House
+打扫	House
+干净	House
+扫	House
+净	House
+电梯	House
+坏	House
+被	House
+厕所	House
+厕	House
+梯	House
+寒	Exam
+暑	Exam
+复	Exam
+记得	Exam
+复习	Exam
+数学	Exam
+放假	Exam
+暑假	Exam
+寒假	Exam
+终于	Exam
+结束	Exam
+放松	Exam
+大学	Exam
+终	Exam
+于	Exam
+束	Exam
+成绩	Exam
+担心	Exam
+专业	Exam
+担	Exam
+专	Exam
+绩	Exam
+景	Travel 4
+街	Travel 4
+地图	Travel 4
+街道	Travel 4
+红绿灯	Travel 4
+风景	Travel 4
+司机	Travel 4
+接	Travel 4
+免费	Travel 4
+打车	Travel 4
+观光	Travel 4
+免	Travel 4
+观	Travel 4
+光	Travel 4
+小心	Travel 4
+时差	Travel 4
+马路	Travel 4
+参观	Travel 4
+博物馆	Travel 4
+博	Travel 4
+安排	Travel 4
+活动	Travel 4
+表演	Travel 4
+海边	Travel 4
+活	Travel 4
+演	Travel 4
+邮	Communication 2
+刚才	Communication 2
+电子邮件	Communication 2
+主要	Communication 2
+短信	Communication 2
+关于	Communication 2
+主	Communication 2
+登录	Communication 2
+密码	Communication 2
+信号	Communication 2
+登	Communication 2
+密	Communication 2
+录	Communication 2
+段	Communication 2
+其实	Communication 2
+过去	Communication 2
+谈	Communication 2
+实	Communication 2
+同意	Work 2
+决定	Work 2
+根据	Work 2
+升职	Work 2
+根	Work 2
+据	Work 2
+升	Work 2
+职	Work 2
+满意	Work 2
+认为	Work 2
+出差	Work 2
+表现	Work 2
+满	Work 2
+老板	Work 2
+麻烦	Work 2
+开会	Work 2
+面试	Work 2
+烦	Work 2
+饼	Festivals
+月亮	Festivals
+月饼	Festivals
+中秋节	Festivals
+圆	Festivals
+恭喜	Festivals
+红包	Festivals
+汤圆	Festivals
+聚会	Festivals
+发财	Festivals
+恭	Festivals
+聚	Festivals
+财	Festivals
+端午节	Festivals
+粽子	Festivals
+划	Festivals
+龙舟	Festivals
+端	Festivals
+粽	Festivals
+龙	Festivals
+舟	Festivals
+珠	Gourmet 2
+汤	Gourmet 2
+酸	Gourmet 2
+珍	Gourmet 2
+珍珠奶茶	Gourmet 2
+酸辣汤	Gourmet 2
+北京烤鸭	Gourmet 2
+春卷	Gourmet 2
+豆花	Gourmet 2
+烤	Gourmet 2
+鸭	Gourmet 2
+卷	Gourmet 2
+宫保鸡丁	Gourmet 2
+卤肉饭	Gourmet 2
+馒头	Gourmet 2
+保	Gourmet 2
+卤	Gourmet 2
+馒	Gourmet 2
+丁	Gourmet 2
+豪	Internet Slang
+宅	Internet Slang
+土	Internet Slang
+土豪	Internet Slang
+吃货	Internet Slang
+宅男	Internet Slang
+菜鸟	Internet Slang
+美图	Internet Slang
+萌	Internet Slang
+自拍	Internet Slang
+囧	Internet Slang
+美眉	Internet Slang
+高富帅	Internet Slang
+眉	Internet Slang
+富	Internet Slang
+微博	Internet Slang
+微信	Internet Slang
+朋友圈	Internet Slang
+微	Internet Slang
+圈	Internet Slang
+关注	Internet Slang
+赞	Internet Slang
+转发	Internet Slang
+好友	Internet Slang
+粉丝	Internet Slang
+分享	Internet Slang
+评论	Internet Slang
+粉	Internet Slang
+丝	Internet Slang
+享	Internet Slang
+评	Internet Slang
+论	Internet Slang
+销	Business 1
+收据	Business 1
+报销	Business 1
+费用	Business 1
+尽快	Business 1
+回复	Business 1
+报告	Business 1
+协议	Business 1
+尽	Business 1
+协	Business 1
+合同	Business 1
+项目	Business 1
+签名	Business 1
+汇报	Business 1
+合	Business 1
+项	Business 1
+汇	Business 1
+广告	Business 1
+预算	Business 1
+资本	Business 1
+低	Business 1
+广	Business 1
+资	Business 1
+险	Business 2
+投	Business 2
+保险	Business 2
+风险	Business 2
+投资	Business 2
+律师	Business 2
+版权	Business 2
+咨询	Business 2
+律	Business 2
+版	Business 2
+咨	Business 2
+权	Business 2
+询	Business 2
+保持	Business 2
+联系	Business 2
+联	Business 2
+持	Business 2
+合作	Business 2
+愉快	Business 2
+辛苦	Business 2
+感谢	Business 2
+愉	Business 2
+辛	Business 2
+伤	Emergency
+受	Emergency
+救	Emergency
+警	Emergency
+报警	Emergency
+救护车	Emergency
+受伤	Emergency
+救命	Emergency
+发生	Emergency
+意外	Emergency
+严重	Emergency
+严	Emergency
+命	Emergency
+偷	Emergency
+警察	Emergency
+察	Emergency
+奖	Work 3
+工资	Work 3
+加班	Work 3
+奖金	Work 3
+生意	Work 3
+压力	Work 3
+责任	Work 3
+商量	Work 3
+意见	Work 3
+压	Work 3
+责	Work 3
+任	Work 3
+误会	Work 3
+抱歉	Work 3
+原谅	Work 3
+误	Work 3
+抱	Work 3
+原	Work 3
+歉	Work 3
+谅	Work 3
+干燥	Weather 2
+暖和	Weather 2
+凉快	Weather 2
+燥	Weather 2
+暖	Weather 2
+凉	Weather 2
+温度	Weather 2
+大约	Weather 2
+温	Weather 2
+鹰	Duo
+羽	Duo
+橙	Duo
+猫头鹰	Duo
+羽毛	Duo
+多儿	Duo
+鼓励	Duo
+提醒	Duo
+懒	Duo
+放弃	Duo
+鼓	Duo
+励	Duo
+醒	Duo
+弃	Duo
